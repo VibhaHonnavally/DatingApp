@@ -15,6 +15,7 @@ namespace API.Controllers
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
+        //yty
 
         private readonly ILogger<WeatherForecastController> _logger;
 
